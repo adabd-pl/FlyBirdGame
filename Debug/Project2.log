@@ -1,0 +1,23 @@
+﻿  FlyBirdGame.cpp
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(15): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(18): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(23): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(61): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(61): warning C4244: "argument": konwersja z "const unsigned int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(67): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(67): warning C4244: "argument": konwersja z "const unsigned int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(172): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(187): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(195): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(212): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(230): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(281): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(320): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(332): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(333): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(333): warning C4244: "argument": konwersja z "const unsigned int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(342): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(343): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(343): warning C4244: "argument": konwersja z "const unsigned int" do "float", możliwa utrata danych
+c:\users\adabo\source\repos\project2\project2\flybirdgame.cpp(354): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+  Project2.vcxproj -> C:\Users\adabo\source\repos\Project2\Debug\Project2.exe
